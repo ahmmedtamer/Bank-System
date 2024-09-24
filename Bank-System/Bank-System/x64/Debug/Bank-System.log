@@ -1,0 +1,7 @@
+﻿  Source.cpp
+D:\ProjectToGitHub\Bank-System\Bank-System\Source.cpp(213,27): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\ProjectToGitHub\Bank-System\Bank-System\Source.cpp(486,1): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+D:\ProjectToGitHub\Bank-System\Bank-System\Source.cpp(546,1): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+D:\ProjectToGitHub\Bank-System\Bank-System\Source.cpp(912,1): warning C4715: 'DeleteUserByUsername': not all control paths return a value
+D:\ProjectToGitHub\Bank-System\Bank-System\Source.cpp(957,1): warning C4715: 'UpdateUserByUsername': not all control paths return a value
+  Bank-System.vcxproj -> D:\ProjectToGitHub\Bank-System\x64\Debug\Bank-System.exe
